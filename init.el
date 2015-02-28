@@ -23,6 +23,7 @@
 ;; set editing defaults
 (setq-default indent-tabs-mode nil)
 (setq tab-width 2)
+(setq evil-shift-width 2)
 
 ;; theme
 (load-theme 'Darkula t)
