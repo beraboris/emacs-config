@@ -12,7 +12,7 @@ Checkout the repository
 
     $ git clone https://github.com/beraboris/emacs-config.git ~/emacs-config
 
-Add the following to your `~/emacs` file.
+Add the following to your `~/.emacs` file.
 
     (load-file "~/emacs-config/init.el")
 
