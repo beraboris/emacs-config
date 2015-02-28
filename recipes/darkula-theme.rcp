@@ -1,0 +1,6 @@
+(:name darkula-theme
+       :description "IntelliJ IDEA's Darkula theme"
+       :type github
+       :pkgname "bmdhacks/emacs-color-theme-darkula"
+       :prepare (progn
+		  (add-to-list 'custom-theme-load-path default-directory)))
