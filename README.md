@@ -25,6 +25,8 @@ packages and specifies a bunch of options.
 `packages.el` lists all the packages to be installed. These are installed with
 `(el-get-bundle package-name-here)`.
 
+`commands.el` contains a bunch of custom commands that make my life easier.
+
 The `packages/` directory contains all the configuration files for the packages.
 A file named `init-foobar.el` will be loaded when the `foobar`package is loaded.
 
