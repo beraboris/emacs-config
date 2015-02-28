@@ -23,9 +23,10 @@
 (el-get-bundle slime)
 (el-get-bundle cmake-mode)
 
-;; autocomplete and snippets
+;; ide like features (autocomplete, snippets, syntax, etc)
 (el-get-bundle auto-complete)
 (el-get-bundle ac-geiser)
 (el-get-bundle irony)
 (el-get-bundle ac-irony)
 (el-get-bundle yasnippet)
+(el-get-bundle flycheck)
