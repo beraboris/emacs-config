@@ -42,3 +42,7 @@
 ;; fonts and colors
 (set-face-attribute 'default nil :height 100 :family "Source Code Pro")
 (set-face-attribute 'hl-line nil :background "#363636")
+
+;; custom commands
+(load-file (expand-file-name "commands.el" config-dir))
+(global-set-key (kbd "S-<return>") 'newline-anywhere)
