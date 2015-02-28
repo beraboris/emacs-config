@@ -2,12 +2,12 @@
 (el-get-bundle el-get)
 
 ;; basic ux
+(el-get-bundle evil)
 (el-get-bundle helm)
 (el-get-bundle projectile)
 (el-get-bundle drag-stuff)
 (el-get-bundle smartparens)
 (el-get-bundle expand-region)
-(el-get-bundle evil)
 
 ;; theme
 (el-get-bundle darkula-theme)
