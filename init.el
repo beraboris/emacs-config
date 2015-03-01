@@ -34,6 +34,7 @@
 (global-linum-mode t)
 (global-hl-line-mode t)
 (pending-delete-mode t)
+(setq fill-column 80)
 
 ;; no filthy startup screen, menus or toolbars
 (setq inhibit-startup-screen t)

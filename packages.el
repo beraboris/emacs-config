@@ -8,6 +8,7 @@
 (el-get-bundle drag-stuff)
 (el-get-bundle smartparens)
 (el-get-bundle expand-region)
+(el-get-bundle fill-column-indicator)
 
 ;; theme
 (el-get-bundle darkula-theme)
