@@ -26,6 +26,7 @@
 
 ;; ide like features (autocomplete, snippets, syntax, etc)
 (el-get-bundle company-mode)
+(el-get-bundle company-c-headers)
 (el-get-bundle company-auctex)
 (el-get-bundle company-math)
 (el-get-bundle slime-company)
@@ -35,3 +36,4 @@
 (el-get-bundle company-irony)
 (el-get-bundle yasnippet)
 (el-get-bundle flycheck)
+
