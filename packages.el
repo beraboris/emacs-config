@@ -23,6 +23,7 @@
 (el-get-bundle geiser)
 (el-get-bundle slime)
 (el-get-bundle cmake-mode)
+(el-get-bundle yaml-mode)
 
 ;; ide like features (autocomplete, snippets, syntax, etc)
 (el-get-bundle company-mode)
