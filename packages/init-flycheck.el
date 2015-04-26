@@ -9,7 +9,7 @@
                   ;; from the looks of it ruby-lint can't actually revolve
                   ;; external dependencies and fails really hard on anything
                   ;; that is not a simple ruby script
-                  ruby-lint
+                  ruby-rubylint
                   )))
 
 (global-flycheck-mode)
