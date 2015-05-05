@@ -8,13 +8,17 @@ automatically and install all packages.
 Installation
 ------------
 
-Checkout the repository
+Check out the repository and run the install script.
 
     $ git clone https://github.com/beraboris/emacs-config.git ~/emacs-config
+    $ cd ~/emacs-config
+    $ ./install.sh
 
-Add the following to your `~/.emacs` file.
+Customization
+-------------
 
-    (load-file "~/emacs-config/init.el")
+You can customize the installed packages by editing `packages.el`. A sample
+`packages.el` is provided as `packages-sample.el`.
 
 Layout
 ------
