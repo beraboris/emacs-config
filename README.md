@@ -5,6 +5,16 @@ This is my personal set of configurations for emacs. This config makes use of
 el-get to manage packages. The first time it's run it'll install el-get
 automatically and install all packages.
 
+Requirements
+------------
+
+You are going to need:
+
+- Adobe's [Source code pro](https://github.com/adobe-fonts/source-code-pro) font
+- Standard build tools
+- A LaTeX distribution
+- Git and Mercurial (mercurial is required to install evil)
+
 Installation
 ------------
 
