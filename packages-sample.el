@@ -24,6 +24,7 @@
 (el-get-bundle slime)
 (el-get-bundle cmake-mode)
 (el-get-bundle yaml-mode)
+(el-get-bundle cucumber)
 
 ;; ide like features (autocomplete, snippets, syntax, etc)
 (el-get-bundle company-mode)
