@@ -30,6 +30,7 @@
 (el-get-bundle js2-mode)
 
 ;; ide like features (autocomplete, snippets, syntax, etc)
+(el-get-bundle editorconfig)
 (el-get-bundle company-mode)
 (el-get-bundle company-c-headers)
 (el-get-bundle company-auctex)
