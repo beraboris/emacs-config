@@ -25,6 +25,7 @@
 (el-get-bundle cmake-mode)
 (el-get-bundle yaml-mode)
 (el-get-bundle cucumber)
+(el-get-bundle image+)
 
 ;; javascript
 (el-get-bundle js2-mode)
